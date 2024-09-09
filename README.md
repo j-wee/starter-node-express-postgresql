@@ -53,3 +53,18 @@ This starter code closely follows the best practices and patterns established in
 By appending `?ssl=true` to the connection URL, you'll ensure a secure connection to your database, resolving any SSL-related issues.
 
 If you have trouble getting the server to run, reach out for assistance.
+
+## Changes
+
+1: https://github.com/Thinkful-Ed/starter-node-express-postgresql/tree/knex-configuration-complete
+2: https://github.com/Thinkful-Ed/starter-node-express-postgresql/tree/connecting-to-the-database-with-knex-complete
+3: https://github.com/Thinkful-Ed/starter-node-express-postgresql/tree/migrations-with-knex-complete
+4: https://github.com/Thinkful-Ed/starter-node-express-postgresql/tree/seeding-data-with-knex-complete
+5: https://github.com/Thinkful-Ed/starter-node-express-postgresql/tree/crud-with-knex-complete
+6: https://github.com/Thinkful-Ed/starter-node-express-postgresql/tree/crud-with-knex-complete
+7: https://github.com/Thinkful-Ed/starter-node-express-postgresql/tree/async-and-await-in-express-complete
+8: https://github.com/Thinkful-Ed/starter-node-express-postgresql/tree/aggregates-with-knex-and-javascript-complete
+9: https://github.com/Thinkful-Ed/starter-node-express-postgresql/tree/joins-with-knex-complete
+
+
+
